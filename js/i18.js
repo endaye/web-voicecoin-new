@@ -46,7 +46,7 @@ var app = new Vue({
 					lang: '中文'
 				},
 				wel: {
-					title: 'Welcome to Voicecoin\'s ICO',
+					title: 'Welcome to Voicechain',
 					sub1: 'We\'re building a voice-driven decentralized smart web based on voicechain.',
 					sub2: 'The universal bridge between AI chatbot and IoT.',
 					sub3: 'Voicecoin is the money of Voiceweb.',
@@ -345,7 +345,7 @@ var app = new Vue({
 					lang: 'ENG'
 				},
 				wel: {
-					title: '欢迎参与语音链ICO',
+					title: '欢迎访问语音链',
 					sub1: '我们正在建造语音驱动的去中心化万维网',
 					sub2: '智能语音机器人与物联网之间的桥梁',
 					sub3: '语音币是语音网络的通用货币',
