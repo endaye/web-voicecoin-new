@@ -21,7 +21,8 @@ function getCookie(cname) {
 	return "";
 }
 
-var language = getCookie('vc-lang');
+// var language = getCookie('vc-lang');
+var language = 'zh';
 if (!language) {
 	language = 'en';
 	setCookie('vc-lang', 'en', 30);
