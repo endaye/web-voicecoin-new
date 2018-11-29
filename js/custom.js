@@ -259,6 +259,17 @@ $(document).ready(function () {
 			hoverBio();
 		}
 	});
+	$('#min-h-kim').bind({
+		click: function () {
+			clickBio(this.id);
+		},
+		mouseenter: function () {
+			hoverBio(this.id);
+		},
+		mouseleave: function () {
+			hoverBio();
+		}
+	});
 	$('#bing-liu').bind({
 		click: function () {
 			clickBio(this.id);

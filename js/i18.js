@@ -226,9 +226,9 @@ var app = new Vue({
 				aa: {
 					h2: 'ADVISORS/INVESTORS',
 					i: [{
-							h4: 'Ruxiong Li',
-							h5: 'Startup Mentor',
-							p1: "Startup Mentor,Founder of Federal Software, China’s biggest software circulation company; Executive Director of China software industry association. Optics Valley Startup Cafe, Founder",
+							h4: 'Min H. Kim',
+							h5: 'Investor Relations Advisor',
+							p1: "Head of BD at The Bee Token, decentralized Airbnb. Previously was Chief of Staff at Civic Technologies and Marketing & Partnerships Associate at Draper University. Working with Tim Draper on blockchain-related initiatives.",
 						},
 						{
 							h4: 'Bing Liu',
